@@ -9,7 +9,7 @@ This project is a real-time fraud detection system for banking transactions usin
 
 ## 📊 Architecture
 
-https://github.com/VaraprasadaReddy0729/real-time-fraud-detection/blob/main/docs/real-time-fraud-detection.png.jpeg
+![Real-Time Fraud Detection Architecture]_(docs/real-time-fraud-detection.png.jpeg)_
 ---
 
 ## 🛠 Tech Stack
